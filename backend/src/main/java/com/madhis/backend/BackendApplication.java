@@ -1,13 +1,13 @@
-package com.madhis.rms;
+package com.madhis.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RmsApplication {
+public class BackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RmsApplication.class, args);
+		SpringApplication.run(BackendApplication.class, args);
 	}
 
 }
